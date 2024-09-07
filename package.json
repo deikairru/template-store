@@ -1,6 +1,6 @@
 {
   "name": "template-store",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "description": "Store web to sell ui/frontend template",
   "main": "index.js",
   "scripts": {
